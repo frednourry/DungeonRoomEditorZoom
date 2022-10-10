@@ -4,7 +4,7 @@ Add a zoom functionnality in the dungeon editor graph for the project https://ww
 
 _Note: This project use Unity 2021.1.7f1._
 
-You will find here only the files to change, not everything, ie __RoomNodeSO.cs__ and __RoomNodeGraphEditor.cs.
+You will find here only the files to change, not everything, ie __RoomNodeSO.cs__ and __RoomNodeGraphEditor.cs__.
 
 ![](static/capture01.gif "zoom")
 
