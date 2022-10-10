@@ -9,7 +9,9 @@ You will find here only the files to change, not everything, ie __RoomNodeSO.cs_
 
 
 
+
 __WARNING:__
+
 There is bug with the popup window position when zooming. I think it's related to this bug: https://issuetracker.unity3d.com/issues/editor-gui-editorgui-dot-popups-selectable-region-is-incorrectly-scaled-slash-re-positioned-when-using-gui-dot-matrix
 
 ![](static/capture_bug01.gif "bug popup")
