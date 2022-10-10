@@ -1,5 +1,5 @@
 # DungeonRoomEditorZoom
-=======================
+
 Add a zoom functionnality in the dungeon editor graph for the project https://www.udemy.com/course/unity-2d-dungeon-gunner-roguelike-development-course/ using this page http://martinecker.com/martincodes/unity-editor-window-zooming/.
 _Note: This project use Unity 2021.1.7f1._
 
